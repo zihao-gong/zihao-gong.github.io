@@ -1,3 +1,6 @@
+<img class="profile-photo" src="/photo.jpg" alt="Zihao Gong">
+
+
 # Zihao Gong
 
 Ph.D. Candidate in Finance · City University of Hong Kong
