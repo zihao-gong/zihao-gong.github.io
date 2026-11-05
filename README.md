@@ -6,7 +6,9 @@ Ph.D. Candidate in Finance · City University of Hong Kong
 
 I am a third-year Ph.D. candidate in Finance at City University of Hong Kong. My research interests lie in **financial econometrics** and **empirical asset pricing**, with a focus on developing econometric methods for asset pricing research.
 
-[Curriculum Vitae](CV.pdf) · [Email](zihaogong2-c@my.cityu.edu.hk)
+[Curriculum Vitae](CV.pdf)
+
+Email: [zihaogong2-c@my.cityu.edu.hk](mailto:zihaogong2-c@my.cityu.edu.hk)
 
 ## Working Paper
 
