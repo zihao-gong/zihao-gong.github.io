@@ -1,3 +1,4 @@
+<img class="profile-photo" src="/photo.jpg" alt="Zihao Gong">
 
 # Zihao Gong
 
